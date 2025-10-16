@@ -1,4 +1,4 @@
-# 💻 Formulário de Login — Modo Claro e Escuro
+# 💻 Formulário de Login — Modo Light e Dark
 
 Este projeto consiste em um **formulário de login responsivo** com alternância entre **modo claro e escuro**, desenvolvido em **HTML5**, **CSS3** e **JavaScript puro (Vanilla JS)**.  
 O objetivo é demonstrar domínio de manipulação do DOM, uso de variáveis CSS, transições animadas e boas práticas de estruturação de um projeto front-end.
@@ -107,6 +107,6 @@ Professora de Física e Desenvolvedora em formação
 
 💡 Interesse em Front-end, UI/UX 
 
-🔗 LinkedIn
+🔗 [LinkedIn](www.linkedin.com/in/alice-barbosa-souza)
 
-🔗 GitHub
+🔗 [GitHub](https://github.com/alicebarsouza)
